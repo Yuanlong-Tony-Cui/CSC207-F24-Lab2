@@ -1,4 +1,4 @@
-import org.junit.Test;
+import cheorg.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
